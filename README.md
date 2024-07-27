@@ -17,7 +17,9 @@
 - Algoritmos en Qiskit
 
 ### Archivos:
-1. banana
+1. TTC.pdf presentación
+2. ejemplos-1.ipynb ejemplos de circuitos cuánticos presentados en la clase
+3. ejemplos-2.ipynb ejemplos adicionales
 
    
 ![portada](https://github.com/user-attachments/assets/e36dca95-5dce-473f-9148-f57cd5edc3b3)
