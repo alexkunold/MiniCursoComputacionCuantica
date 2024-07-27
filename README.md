@@ -17,7 +17,7 @@
 - Algoritmos en Qiskit
 
 ### Archivos:
-1. TTC.pdf presentación
+1. MiniCursoCompCuanticaTTC2024.pdf presentación
 2. ejemplos-1.ipynb ejemplos de circuitos cuánticos presentados en la clase
 3. ejemplos-2.ipynb ejemplos adicionales
 
