@@ -1,6 +1,6 @@
 # MiniCursoComputacionCuantica
-## Mini curso de computación cuántica en la ciencia y las ingenierías 2024
-## UAM I
+## Mini curso de computación cuántica
+## Taller de tecnologías cuánticas en la ciencia y las ingenierías 2024 en UAM I
 ## Alejandro Kunold UAM A
 ### Programa
 
