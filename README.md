@@ -15,6 +15,11 @@
 3. Implementación de algoritmos
 - Instalación de Qiskit
 - Algoritmos en Qiskit
+
+### Archivos:
+1. banana
+
+   
 ![portada](https://github.com/user-attachments/assets/e36dca95-5dce-473f-9148-f57cd5edc3b3)
 
 ![bernsein-vazirani](https://github.com/user-attachments/assets/c8cada3d-ab83-44b1-863a-7105d25367c4)
